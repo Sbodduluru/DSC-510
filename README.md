@@ -1,4 +1,4 @@
-# DSC-510
+# Extract weather information from 'OpenWeatherMap'
 Introduction to Programming
 Purpose of the program:  This program uses an open API and interacts with a webservice in order to obtain data. This
  program will prompt the user for their city or zip code and request weather forecast data from 'OpenWeatherMap' and
